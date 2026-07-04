@@ -90,6 +90,16 @@ npx vercel --prod
 - **Live feed**: Auto-refreshes every 8 seconds
 - **Leaderboard**: Top 5 tippers
 
+## 🤖 AI Usage
+
+This project was developed with the help of AI-assisted tools (Claude), used in the following areas:
+
+- **Code development & debugging:** Assisted with writing and refining the Soroban smart contract integration and frontend components
+- **Error handling design:** Helped design user-friendly handling for the three error scenarios (wallet not found, user rejected, insufficient balance)
+- **Documentation:** Assisted in structuring and writing this README and setup instructions
+
+AI was used as a tool to accelerate development; architecture decisions, technical implementation, and final testing/verification were carried out by the developer.
+
 ## Architecture
 
 ```
